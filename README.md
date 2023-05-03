@@ -1,7 +1,7 @@
 # PURPOSE
 To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This is done by replacing the original plastic bushings with ball bearings. As some of the original parts cannot fit these ball bearings, they are replaced with custom parts. The ball bearings are more durable, provide a much smoother turning feel, and are easier to replace (if ever needed) than the proprietary plastic bushings.
 
-# DISCLAIMERS
+# IMPORTANT
 - This mod is **not** intended for NEMSYS cabinet knobs as the mounting holes are not the same.
 - This mod utilizes the online laser cutting service [SendCutSend](https://sendcutsend.com/) which only ships to the US and Canada. If you live outside of these countries, you will need to find an alternative service to produce the parts.
 - This mod is slightly destructive as the shaft of the knob assemblies require sanding to fit through one of the bearings.
