@@ -1,4 +1,4 @@
-## INSTRUCTIONS
+# INSTRUCTIONS
 
 1. Download the `top_plate.dxf` file (right click and select `Save Link As`)
    
