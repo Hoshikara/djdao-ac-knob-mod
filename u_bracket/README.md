@@ -12,9 +12,11 @@
    3. Select `5052 ALUMINUM`
    4. Select `.040" (1.0 MM)`
    
-5. Choose to add bending to the design and copy the following bend settings ![Bend Settings](/u_bracket/images/bend_settings.png)
+5. Choose to add bending to the design and copy the following bend settings
+![Bend Settings](/u_bracket/images/bend_settings.png)
 
-6. Verify that the 3D model preview looks correct ![3D Model Preview](/u_bracket/images/3d_model_preview.png)
+6. Verify that the 3D model preview looks correct
+![3D Model Preview](/u_bracket/images/3d_model_preview.png)
 
 7. Change the quantity to `2` and add to cart
 

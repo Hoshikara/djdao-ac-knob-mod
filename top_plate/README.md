@@ -20,9 +20,10 @@
    3. Select `STUD`
    4. Select `FLUSH STUD, M4 X 0.7, .393"`
    
-   ![Hole Operations](/u_bracket/images/hole_operations.png)
+   ![Hole Operations](/top_plate/images/hole_operations.png)
 
-7. Verify that the 3D model preview looks correct ![3D Model Preview](/u_bracket/images/3d_model_preview.png)
+7. Verify that the 3D model preview looks correct
+![3D Model Preview](/top_plate/images/3d_model_preview.png)
 
 8. Change the quantity to `2` and add to cart
 
