@@ -10,8 +10,8 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 - If you have access to a 3D printer, consider [this](https://github.com/arkeet/svre9-knob-mod) modifcation instead.
 
 # TOOLS AND MATERIALS
-- 2x [Custom Top Plate](./top_plate/ORDERING.md)
-- 2x [Custom U Bracket](./u_bracket/ORDERING.md)
+- 2x [Custom Top Plate](./top_plate/)
+- 2x [Custom U Bracket](./u_bracket/)
 - 2x MISUMI Resin Washers WSJW10-6-2, available at [YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx?variant=41889513636027) or [bluespringexpress](https://bluespringexpress.net/en-us/products/sound-voltex-misumi-resin-washers-wsjw10-6-2)
 - Find these on Amazon, AliExpress, etc.:
     - 2x MF106ZZ Flanged Ball Bearing 6x10x3mm
