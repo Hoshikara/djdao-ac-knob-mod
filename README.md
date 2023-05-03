@@ -12,6 +12,16 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 
 ---
 
-## MATERIALS
+## TOOLS AND MATERIALS
 - 2x [Custom Top Plate](./top_plate/ORDERING.md)
 - 2x [Custom U Bracket](./u_bracket/ORDERING.md)
+- 2x MF106ZZ Flanged Ball Bearing 6x10x3mm
+- 2x MF148ZZ Flanged Ball Bearing 8x14x4mm
+- 2x MISUMI Resin Washers WSJW10-6-2, available at [YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx?variant=41889513636027) or [bluespringexpress](https://bluespringexpress.net/en-us/products/sound-voltex-misumi-resin-washers-wsjw10-6-2) 
+- 200-400 grit sandpaper
+- 7mm socket wrench screwdriver
+- 1.5mm and 2mm hex key allen wrenches
+
+---
+
+## 
