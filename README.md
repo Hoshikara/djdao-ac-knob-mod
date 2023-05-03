@@ -1,18 +1,14 @@
-## PURPOSE
+# PURPOSE
 To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This will be done by using ball bearings instead of the original plastic bushings. We will use custom parts that can accomodate ball bearings as it is not possible to fit them in the original knobs. The ball bearings are more durable, provide a much smoother turning feel, and are easier to replace (if ever needed) than the proprietary plastic bushings.
 
----
-
-## DISCLAIMERS
+# DISCLAIMERS
 - This mod utilizes the online laser cutting service [SendCutSend](https://sendcutsend.com/) which only ships to the US and Canada. If you live outside of these countries, you will need to find an alternative service to produce the parts.
 - This mod is slightly destructive as the shaft of the knob assemblies require sanding to fit through one of the bearings.
 - The custom top plate has oversized slots for the torque limiter tabs. This arcade accurate as opposed to the exact fit that the original top plate has.
 - Approximate cost of materials is $90 USD at the time of writing.
 - If you have access to a 3D printer, consider [this](https://github.com/arkeet/svre9-knob-mod) modifcation instead.
 
----
-
-## TOOLS AND MATERIALS
+# TOOLS AND MATERIALS
 - 2x [Custom Top Plate](./top_plate/ORDERING.md)
 - 2x [Custom U Bracket](./u_bracket/ORDERING.md)
 - 2x MF106ZZ Flanged Ball Bearing 6x10x3mm
@@ -22,13 +18,11 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 - 7mm socket wrench screwdriver
 - 1.5mm and 2mm hex key allen wrenches
 
----
-
-## ASSEMBLY
+# ASSEMBLY
 
 ![Knob Assembly Exploded View](https://gamerepair.info/images/60_sound_voltex_volume_assembly)
 
-#### Parts of interest:
+## Parts of interest:
 - `1` is the U bracket, replace it with the custom U bracket.
 - `2` is the bottom plastic bushing, replace it with a MF148ZZ ball bearing. The hole in the U bracket may require sanding to fit the bearing.
 - `3` is the shaft of the assembly, sand this down **only enough** to fit through the MF106ZZ ball bearing.
@@ -39,5 +33,6 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 - `C` is a knob set screw, use the 2mm hex key allen wrench to remove these.
 - `D` is the shaft set screw, use the 1.5mm hex key allen wrench to remove these.
 
-#### Disassembly and reassembly video:
-[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)
+## Disassembly and reassembly video:
+[![SDVX AC-Style Knob Disassembly and Reassembly](https://i.ytimg.com/vi/QxZ3BoAf3iQ/hq720.jpg)](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)
+
