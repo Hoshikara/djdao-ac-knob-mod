@@ -1,6 +1,6 @@
 ## INSTRUCTIONS
 
-1. Download the `u_bracket.dxf` file
+1. Download the `u_bracket.dxf` file (right click and select `Save Link As`)
    
 2. Upload the file to [SendCutSend](https://app.sendcutsend.com/customer#/quote)
    
