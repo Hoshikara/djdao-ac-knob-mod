@@ -24,4 +24,20 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 
 ---
 
-## 
+## ASSEMBLY
+
+![Knob Assembly Exploded View](https://gamerepair.info/images/60_sound_voltex_volume_assembly)
+
+#### Parts of interest:
+- `1` is the U bracket, replace it with the custom U bracket.
+- `2` is the bottom plastic bushing, replace it with a MF148ZZ ball bearing. The hole in the U bracket may require sanding to fit the bearing.
+- `3` is the shaft of the assembly, sand this down **only enough** to fit through the MF106ZZ ball bearing.
+- `8` is the top plate, replaced it with the custom top plate.
+- `9` is the top plastic bushing, replace it with a MF106ZZ ball bearing.
+- `10` is a MISUMI WSJW10-6-2 Resin Washer, not completely necessary but recommended to space the knob from the top plate.
+- `B` is a 7mm hex nut, use the 7mm socket wrench screwdriver to remove these.
+- `C` is a knob set screw, use the 2mm hex key allen wrench to remove these.
+- `D` is the shaft set screw, use the 1.5mm hex key allen wrench to remove these.
+
+#### Disassembly and reassembly video:
+[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)
