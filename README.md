@@ -26,7 +26,7 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 
 ## Parts of interest:
 - `1` is the U bracket, replace it with the custom U bracket.
-- `2` is the bottom plastic bushing, replace it with a MF148ZZ ball bearing. The hole in the U bracket may require sanding to fit the bearing.
+- `2` is the bottom plastic bushing, replace it with a MF148ZZ ball bearing. The hole in the U bracket may require sanding to fit the bearing, but try press fitting the bearing first.
 - `3` is the shaft of the assembly. This part will likely require sanding, do so **only enough** to fit through the MF106ZZ bearing.
 - `8` is the top plate, replace it with the custom top plate.
 - `9` is the top plastic bushing, replace it with a MF106ZZ ball bearing.
