@@ -1,16 +1,12 @@
 # INSTRUCTIONS
 
-1. Download the `top_plate.dxf` file (right click and select `Save Link As`)
+1. Download the raw `top_plate.dxf` file.
    
 2. Upload the file to [SendCutSend](https://app.sendcutsend.com/customer#/quote)
    
 3. Verify that units are in `mm`
    
-4. For material selection:
-   1. Select `METALS`
-   2. Select `ALUMINUM`
-   3. Select `5052 ALUMINUM`
-   4. Select `.125" (3.2 MM)`
+4. For material selection: `METALS -> ALUMINUM -> 5052 ALUMINUM -> .125" (3.2 MM)`
    
 5. Choose to add hole operations to the design
 
