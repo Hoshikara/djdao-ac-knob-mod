@@ -6,7 +6,7 @@ To bring the feel of DJ DAO's arcade knobs closer to Valkyrie Model knobs. This 
 - This mod utilizes the online laser cutting service [SendCutSend](https://sendcutsend.com/) which only ships to the US and Canada. If you live outside of these countries, you will need to find an alternative service to produce the parts.
 - This mod is slightly destructive as the shaft of the knob assemblies require sanding to fit through one of the bearings.
 - The custom top plate has oversized slots for the torque limiter tabs. This is arcade accurate as opposed to the exact fit of the original top plate slots.
-- The approximate cost of materials is $100 USD at the time of writing (May 2023).
+- The approximate cost of materials is $70 USD at the time of writing (June 2023).
 - If you have access to a 3D printer, consider [this](https://github.com/arkeet/svre9-knob-mod) modifcation instead.
 
 # TOOLS AND MATERIALS
